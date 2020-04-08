@@ -1,0 +1,11 @@
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Views.Filter.resources
+C:\Users\RaviKiran\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.Views.MainForm.resources
